@@ -10,8 +10,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islammesabah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🐦 Twitter: [Islam Mesabah](https://twitter.com/islamkaloop)
-- 🧑‍💼 Linkedin: [Islam Mesabah](https://www.linkedin.com/in/islamkaloop/) 
+- 🐦 Twitter: [Islam Mesabah](https://twitter.com/islam_mesabah)
+- 🧑‍💼 Linkedin: [Islam Mesabah](https://www.linkedin.com/in/islammesabah/) 
 
 <!--
 **islamkaloop/islamkaloop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
